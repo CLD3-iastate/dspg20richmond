@@ -17,14 +17,16 @@
 
 ![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG)  |  ![Dylan Glover](/team_files/Dylan.Glover.VT.jpg)
 :-----------------------------------------:|:-----------------------------------------:
-[Laura Pranteddu, Intern (master student at University of Trento, Data Science)](https://github.com/lp9kh)            |  [Talib Grant, Intern (undergraduate student at Virginia Tech, Data Analytics)](https://github.com/tkgrant)
+[Laura Pranteddu, Intern (master student at University of Trento, Data Science)](https://github.com/lp9kh)            |  [Dylan Glover, Intern (undergraduate student at Virginia Tech, Mathematics)](https://github.com/tkgrant)
 
+![Afrina Tabassum](/team_files/Afrina.Tabassum.VT.jpg)  
+[Afrina Tabassum, Intern (PhD student at University of Trento, Computer Science)](https://github.com/afrinaVT)            
 
 ### VT Faculty Team Members {style=text-align:center}
 
 ##### [Photos go about here.] {style=text-align:center} 
 
-[Ford Ramsey (Assistant Professor at Virginia Tech, Agricultural & Applied Economics, DSPG Project Lead)](https://aaec.vt.edu/people/faculty/ramsey-ford.html), [Susan Chen (Associate Professor at Virginia Tech, Agricultural & Applied Economics)](https://aaec.vt.edu/people/faculty/chen-susan.html), [Conoway Haskins (Extension Specialist at Virginia Cooperative Extension)](https://ext.vt.edu/community-leadership/people/conaway-haskins.html)
+[Susan Chen (Associate Professor at Virginia Tech, Agricultural & Applied Economics)](https://aaec.vt.edu/people/faculty/chen-susan.html), [Ford Ramsey (Assistant Professor at Virginia Tech, Agricultural & Applied Economics, DSPG Project Lead)](https://aaec.vt.edu/people/faculty/ramsey-ford.html), [Conoway Haskins (Extension Specialist at Virginia Cooperative Extension)](https://ext.vt.edu/community-leadership/people/conaway-haskins.html)
 
 ### Project Sponsors/Stakeholders {style=text-align:center}
 

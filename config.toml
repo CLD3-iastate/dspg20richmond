@@ -5,16 +5,16 @@ description = "A website for Virginia Tech's 2020 Data Science for the Public Go
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$"]
+publishDir = "docs"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    author = "Nate Day"
+    author = "UVA Biocomplexity Institute"
     description = "2020 DSPG VT Richmond"
     logo = "favicon/uva-dspg-logo.jpg"
-    twitterAuthor = "@natedayta"
     githubUsername = "boya66"
     accent = "#232D4B" # dark colors do best
     backgroundColor = "#FFFFFF"
@@ -49,11 +49,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Team"
     weight = 5
 
-
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
-
 
 [[menu.icon]]
     url = "https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program"
