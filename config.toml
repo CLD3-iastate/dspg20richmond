@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "2020 DSPG VT Loudoun"
+    description = "2020 DSPG VT Richmond"
     logo = "favicon/uva-dspg-logo.jpg"
     twitterAuthor = "@natedayta"
     githubUsername = "boya66"
@@ -61,7 +61,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/boya66/dspg2020Loudoun"
+    url = "https://github.com/boya66/dspg2020Richmond"
     name = "fab fa-github"
     weight = 2
 
