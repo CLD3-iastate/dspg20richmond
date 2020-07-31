@@ -33,13 +33,13 @@ Find the correlation between eviction rate data and capital metrics.
 Oftentimes the convergence of housing demand and supply has reduced the meaning of living to a mere consumption need that can be satisfied in the market like every other need. __Living is indeed a process that involves individuals and their actions and relationships.__
 To better understand the framework of the many complex aspects of living, and consequently of eviction, we should consider the strong implications that living has with the surrounding environment. 
 
- ![](ev_fr.png)
+ ![Richmond](/ev_fr.png)
 
 Consequences of eviction: 
 
-+ Poverty increase 
-+ Lower quality education 
-+ Lower safety 
+* Poverty increase 
+* Lower quality education 
+* Lower safety 
 
 
 
