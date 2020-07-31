@@ -7,7 +7,7 @@ We also used tract level data from the 2013-2017 American Community Survey on hi
 
 In our regression model, we analyzed tracts whose parent cities had a population between 100,000-300,000. We narrowed the variables list to the most well supported through a literature search and developed an initial model to determine factors that were not significant or were highly correlated with other variables. 
 
-These variables, in addition to variables with high variance inflation factors or other variables with high colinearity by correlation matrix, were dropped. This procedure dropped medianhouseholdincome, which had the highest VIF. The response variable evictionrate underwent a square root transformation to address heteroscedasticity.
+These variables, in addition to variables with high variance inflation factors or other variables with high collinearity by correlation matrix, were dropped. This procedure dropped medianhouseholdincome, which had the highest VIF. The response variable evictionrate underwent a square root transformation to address heteroscedasticity.
 
 Our final model: 
 \[sqrt(evictionrate) = 2.180568248 + 
