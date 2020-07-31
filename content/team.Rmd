@@ -23,13 +23,13 @@ The Data Science for the Public Good (DSPG) Young Scholars program](https://bioc
 ### DSPG Team Members {style=text-align:center}
 
 <center>
-![Boya Zhang](/images/Boya.Zhang.VT.jpg){width=150px height=160px}![Talib Grant](/images/Talib.Grant.VT.jpg){width=170px height=160px} ![Laura Pranteddu](/images/Laura.Pranteddu.VT.JPG){width=160px height=160px} ![Adam Wells](/images/Adam.Wells.VT.jpg){width=140px height=160px}
+![Boya Zhang](/team_files/Boya.Zhang.VT.jpg){width=150px height=160px}![Talib Grant](/team_files/Talib.Grant.VT.jpg){width=170px height=160px} ![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG){width=160px height=160px} ![Adam Wells](/team_files/Adam.Wells.VT.jpg){width=140px height=160px}
 
 [Boya Zhang, Fellow (PhD Student at Virginia Tech, Statistics)](https://github.com/boya66)
 
 [Talib Grant, Intern (Undergraduate Student at Virginia Tech, Data Analytics) ](https://github.com/tkgrant)
 
-[Laura Pranteddu, Intern (Master Student at University of Trento, Data Science)](https://github.com/lp9kh) | 
+[Laura Pranteddu, Intern (Master Student at University of Trento, Data Science)](https://github.com/lp9kh) 
 
 [Adam Wells, Intern (Master student at Virginia Tech, Data Analysis and Applied Statistics)](https://github.com/wellay01)
 
@@ -40,10 +40,10 @@ The Data Science for the Public Good (DSPG) Young Scholars program](https://bioc
 
 ### Virginia Tech Faculty Team Members {style=text-align:center}
 
-![Susan Chen](/images/Susan.Chen.VT.jpg){width=150px height=160px}
-![Conaway Haskins](/images/Conaway.Haskins.VT.jpg){width=150px height=160px}
-![Matt Holt](/images/Matt.Holt.VT.jpg){width=150px height=160px}
-![Ford Ramsey](/images/Ford.Ramsey.VT.jpg){width=160px height=160px}
+![Susan Chen](/team_files/Susan.Chen.VT.jpg){width=150px height=160px}
+![Conaway Haskins](/team_files/Conaway.Haskins.VT.jpg){width=150px height=160px}
+![Matt Holt](/team_files/Matt.Holt.VT.jpg){width=150px height=160px}
+![Ford Ramsey](/team_files/Ford.Ramsey.VT.jpg){width=160px height=160px}
 
 
 [Susan Chen (Associate Professor, Food and Health Economics, DSPG Project Co-Lead)](https://aaec.vt.edu/people/faculty/chen-susan.html)
@@ -56,7 +56,7 @@ The Data Science for the Public Good (DSPG) Young Scholars program](https://bioc
 
 ### Project Sponsors/Stakeholders {style=text-align:center}
 <center>
-![VCE](/images/VCE.Logo.png){width=300px height=200px}
+![VCE](/team_files/VCE.Logo.png){width=300px height=200px}
 <center>
 
 [Shalom Black (Project Manager Health Services Strategic Plan, Loudoun County Government)](https://www.linkedin.com/in/shalom-black-74960510/)
