@@ -35,7 +35,7 @@ To better understand the framework of the many complex aspects of living, and co
 
 Consequences of eviction: 
 
-* Poverty increase 
++ Poverty increase 
 + Lower quality education 
 + Lower safety 
 
