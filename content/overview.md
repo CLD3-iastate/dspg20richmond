@@ -11,7 +11,7 @@ This project aims to help Virginia Cooperative Extension (VCE) carefully target 
 The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Then used this information to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
 
 
-### Project description: 
+### Project description:  {style=text-align:center}
 
 
 ### Goal: 
@@ -27,11 +27,11 @@ Find the correlation between eviction rate data and capital metrics.
 + City level: Why is the eviction rate so high in Richmond city? 
  
 
-### Eviction literature 
+### Eviction literature  {style=text-align:center}
 Oftentimes the convergence of housing demand and supply has reduced the meaning of living to a mere consumption need that can be satisfied in the market like every other need. __Living is indeed a process that involves individuals and their actions and relationships.__
 To better understand the framework of the many complex aspects of living, and consequently of eviction, we should consider the strong implications that living has with the surrounding environment. 
 
- ![](/Users/wonderwei/Desktop/ev_fr.png)
+ ![](ev_fr.png)
 
 Consequences of eviction: 
 
@@ -41,13 +41,13 @@ Consequences of eviction:
 
 
 
-### Regression model 
+### Regression model  {style=text-align:center}
 To study eviction we created a regression model that combines the influx of sociodemographic variables such as poverty rate, ethnicity, education level, together with the effect of policies and the median household income.  
 We focus on the features that can help us explain the diverse geographies and the displacement modes together with the influx that such variables have and the linkage among them.  
 
  
 
-### References 
+### References  {style=text-align:center}
 
 [1] Washington, Lark. "Rehouse Richmond: Plan to Address the Eviction Crisis." (2020). 
 
