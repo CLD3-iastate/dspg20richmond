@@ -38,8 +38,13 @@ To better understand the framework of the many complex aspects of living, and co
 Consequences of eviction: 
 
 * Poverty increase 
+<<<<<<< HEAD
 * Lower quality education 
 * Lower safety 
+=======
++ Lower quality education 
++ Lower safety 
+>>>>>>> parent of bdf3034... Fixed image on overview page
 
 
 
