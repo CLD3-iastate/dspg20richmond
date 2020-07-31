@@ -29,8 +29,12 @@
   </url>
   
   <url>
-    <loc>/team/</loc>
+    <loc>/team_ref/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
   </url>
   
   <url>
