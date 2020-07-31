@@ -24,7 +24,8 @@ The Data Science for the Public Good (DSPG) Young Scholars program](https://bioc
 ### DSPG Team Members {style=text-align:center}
 
 <center>
-![Boya Zhang](/team_files/Boya.Zhang.VT.jpg){width=150px height=160px}![Talib Grant](/team_files/Dylan.Glover.VT.jpg){width=150px height=160px}![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG){width=150px height=160px} ![Adam Wells](/team_files/Adam.Wells.VT.jpg){width=150px height=160px}
+![Boya Zhang](/team_files/Boya.Zhang.VT.jpg){width=150px height=160px}![Dylan Glover](/team_files/Dylan.Glover.VT.jpg){width=150px height=160px}![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG){width=150px height=160px}
+![Afrina Tabassum](/team_files/Afrina.Tabassum.VT.jpg){width=150px height=160px}![Adam Wells](/team_files/Adam.Wells.VT.jpg){width=150px height=160px}
 
 [Boya Zhang, Fellow (PhD Student at Virginia Tech, Statistics)](https://github.com/boya66)
 
@@ -32,7 +33,9 @@ The Data Science for the Public Good (DSPG) Young Scholars program](https://bioc
 
 [Laura Pranteddu, Intern (Master Student at University of Trento, Data Science)](https://github.com/lp9kh) 
 
-[Adam Wells, Intern (Master student at Virginia Tech, Data Analysis and Applied Statistics)](https://github.com/wellay01)
+[Afrina Tabassum, Intern (PhD student at University of Trento, Computer Science)](https://github.com/afrinaVT)    
+
+[Adam Wells, Intern (Master Student at Virginia Tech, Data Analysis and Applied Statistics)](https://github.com/wellay01)
 
 ### VT Faculty Team Members {style=text-align:center}
 
