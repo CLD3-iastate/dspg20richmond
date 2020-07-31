@@ -1,7 +1,5 @@
----
-title: "2020 Richmond City Project"
-output: html_document
----
+
+title: "2020 Richmond City Project"{style=text-align:center}
 
 The city of Richmond has one of the highest eviction rates in the United States. 
 ### Project Goals {style=text-align:center}
