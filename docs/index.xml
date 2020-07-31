@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/general-overview/</guid>
-      <description>Main Findings This research uses data from The Eviction Lab at Princeton University, a project directed by Matthew Desmond and designed by Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. The Eviction Lab is funded by the JPB, Gates, and Ford Foundations as well as the Chan Zuckerberg Initiative. More information is found at evictionlab.org. For our primary data source, we used the Eviction Lab’s records on evictions at the 2010 census tract level for all cities.</description>
+      <description>Main Findings Compared to the reference population as described in Data and Methodology, estimates of a unit increase in the following variables were associated with increases in the squared root eviction rate:
+ The number of protected class exemptions in housing-related transactions in state law and 0.3935, Whether tenants in the state are protected from retaliation by landlords after asserting their legal rights and 0.2037, Number of exemptions landlords have from state landlord-tenant law and 0.</description>
     </item>
     
     <item>
@@ -54,8 +55,7 @@ Main Findings [Here you will describe the results and include important visualiz
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/methods/</guid>
-      <description>2020 Richmond City Summer Project Data and Methodology Example text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in varius purus. Nullam ut sodales ante. Fusee justo nisi, suscipit a lacus et, posuere sagittis ex. Nulla convallis ante elit, at consequat ipsum ultricies ut. Aliquam erat volutpat. nderline. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in variu convallis ante elit, at consequat ipsum ultricies ut.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>2020 Richmond City Summer Project Data and Methodology This research uses data from The Eviction Lab at Princeton University, a project directed by Matthew Desmond and designed by Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. The Eviction Lab is funded by the JPB, Gates, and Ford Foundations as well as the Chan Zuckerberg Initiative. More information is found at evictionlab.org. For our primary data source, we used the Eviction Lab’s records on evictions at the 2010 census tract level for all cities.</description>
     </item>
     
     <item>
