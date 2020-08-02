@@ -1,24 +1,57 @@
 ---
-title: "Shiny Apps"
-tags: ["R", "geospatial", "app"]
-weight: 2
+title: "Findings 1"
+weight: 1
 draft: false
 output: html_document
 ---
 
-```{css, echo=FALSE}
-/* this chunnk of code centers all of the headings */
-h1, h2, h3 {
-  text-align: center;
-}
+```{r global_options, include = FALSE}
+library(knitr)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  cache = TRUE,
+  autodep = TRUE,
+  cache.comments = FALSE,
+  tidy = FALSE,
+  fig.width = 7,
+  fig.height = 7,
+  out.width = "65%")
+knitr::include_graphics
+# install.packages
+library(shiny)
+library(shinydashboard)
+library(DT)
+library(readr)
+library(shinyWidgets)
+library(magrittr)
+library(tidyverse)
+library(sf)
+library(leaflet)
+library(readr)
+library(wordcloud)
+library(dplyr)
+library(tm)
+library(RColorBrewer)
+library(ggplot2)
 ```
 
-### Embedding Shiny Apps
+### Findings 1
 
-```{r, echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
-knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
-knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/')
-knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
-  
-```
+####Modeling Census Tract Level Evictions : Correlates Of Eviction Rates
+
+The following variables were significantly associated with census tract level evictions.
+
+Socio-demographic:
+
+* Percentage of tract that is Black or African American (+),
+* Percentage of tract aged 16+ who are unemployed (+), 
+* Census tract poverty rate (+),
+* Percentage of tract with a bachelor’s degree (-),
+
+State Policy factors
+
+* Number of exemptions to Fair Housing Laws (landlord friendly) (+),
+* Number of exemptions landlords have from state landlord-tenant law (landlord friendly) (+),
+* Number of legal remedies available to tenants (-),
+* Number of total legal remedies available to landlords (-)

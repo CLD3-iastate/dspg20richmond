@@ -11,39 +11,44 @@
     
     
     <item>
-      <title>Eviction Rate Regression Model</title>
-      <link>/findings/general-overview/</link>
+      <title>Findings 1</title>
+      <link>/findings/general-overview_ref/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/findings/general-overview/</guid>
-      <description>Main Findings Compared to the reference population as described in Data and Methodology, estimates of a unit increase in the following variables were associated with increases in the squared root eviction rate:
- The number of protected class exemptions in housing-related transactions in state law and 0.3935, Whether tenants in the state are protected from retaliation by landlords after asserting their legal rights and 0.2037, Number of exemptions landlords have from state landlord-tenant law and 0.</description>
+      <guid>/findings/general-overview_ref/</guid>
+      <description> Findings 1 Modeling Census Tract Level Evictions : Correlates Of Eviction Rates The following variables were significantly associated with census tract level evictions.
+Socio-demographic:
+ Percentage of tract that is Black or African American (+), Percentage of tract aged 16+ who are unemployed (+), Census tract poverty rate (+), Percentage of tract with a bachelor’s degree (-),  State Policy factors
+ Number of exemptions to Fair Housing Laws (landlord friendly) (+), Number of exemptions landlords have from state landlord-tenant law (landlord friendly) (+), Number of legal remedies available to tenants (-), Number of total legal remedies available to landlords (-)    </description>
     </item>
     
     <item>
-      <title>Modeling Census Tract Level Evictions - Findings</title>
-      <link>/findings/results-section-two/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/results-section-two/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>/findings/copyofresults-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/copyofresults-section-one/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
+      <title>Findings 1</title>
       <link>/findings/results-section-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-one/</guid>
+      <description> Findings 1 Modeling Census Tract Level Evictions : Correlates Of Eviction Rates The following variables were significantly associated with census tract level evictions.
+Socio-demographic:
+ Percentage of tract that is Black or African American (+), Percentage of tract aged 16+ who are unemployed (+), Census tract poverty rate (+), Percentage of tract with a bachelor’s degree (-),  State Policy factors
+ Number of exemptions to Fair Housing Laws (landlord friendly) (+), Number of exemptions landlords have from state landlord-tenant law (landlord friendly) (+), Number of legal remedies available to tenants (-), Number of total legal remedies available to landlords (-)    </description>
+    </item>
+    
+    <item>
+      <title>Findings 2</title>
+      <link>/findings/results-section-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/findings/results-section-two/</guid>
+      <description>Modeling Census Tract Level Evictions : Richmond: Visualizing An Index Of Eviction Intensity The Eviction Intensity Index we created from our regression model was used to rank all census tracts in U.S. cities that are comparable in size to Richmond in the United States. The wordcloud below visualizes the frequency that census tracts with the words “Richmond City” show up in a list of the top 320 most eviction intense tracts in the US.</description>
+    </item>
+    
+    <item>
+      <title>Findings 3</title>
+      <link>/findings/results-section-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/findings/results-section-three/</guid>
       <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
     </item>
     

@@ -11,39 +11,11 @@
     
     
     <item>
-      <title>Eviction Rate Regression Model</title>
-      <link>/findings/general-overview/</link>
+      <title>Findings 3</title>
+      <link>/findings/results-section-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/findings/general-overview/</guid>
-      <description>Main Findings Compared to the reference population as described in Data and Methodology, estimates of a unit increase in the following variables were associated with increases in the squared root eviction rate:
- The number of protected class exemptions in housing-related transactions in state law and 0.3935, Whether tenants in the state are protected from retaliation by landlords after asserting their legal rights and 0.2037, Number of exemptions landlords have from state landlord-tenant law and 0.</description>
-    </item>
-    
-    <item>
-      <title>Modeling Census Tract Level Evictions - Findings</title>
-      <link>/findings/results-section-two/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/results-section-two/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>/findings/copyofresults-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/copyofresults-section-one/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>/findings/results-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/results-section-one/</guid>
+      <guid>/findings/results-section-three/</guid>
       <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
     </item>
     

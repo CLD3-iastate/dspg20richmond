@@ -3,15 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/findings/general-overview/</loc>
-  </url>
-  
-  <url>
-    <loc>/findings/results-section-two/</loc>
-  </url>
-  
-  <url>
-    <loc>/findings/copyofresults-section-one/</loc>
+    <loc>/findings/general-overview_ref/</loc>
   </url>
   
   <url>
@@ -19,12 +11,24 @@
   </url>
   
   <url>
-    <loc>/methods_ref/</loc>
+    <loc>/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/findings/results-section-two/</loc>
+  </url>
+  
+  <url>
+    <loc>/findings/results-section-three/</loc>
+  </url>
+  
+  <url>
+    <loc>/methods/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/overview/</loc>
+    <loc>/overview_ref/</loc>
     <priority>0</priority>
   </url>
   
@@ -55,10 +59,6 @@
   
   <url>
     <loc>/tags/r/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
   </url>
   
   <url>

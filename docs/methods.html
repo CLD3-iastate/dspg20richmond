@@ -6,28 +6,24 @@
 </div>
 <div id="data-and-methodology" class="section level3" style="text-align:center">
 <h3>Data and Methodology</h3>
-<p>This research uses data from The Eviction Lab at Princeton University, a project directed by Matthew Desmond and designed by Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. The Eviction Lab is funded by the JPB, Gates, and Ford Foundations as well as the Chan Zuckerberg Initiative. More information is found at evictionlab.org. For our primary data source, we used the Eviction Lab’s records on evictions at the 2010 census tract level for all cities.</p>
-<p>We also used tract level data from the 2013-2017 American Community Survey on highest educational attainment and unemployment, and state level policy variables related to protections for landlords and tenants. As we wanted to analyze the model’s results for Richmond, VA, we also utilized the Missouri Census Data Center's 2018 Geocorr database to understand tracts in terms of their corresponding census places, namely cities.</p>
-<p>In our regression model, we analyzed tracts whose parent cities had a population between 100,000-300,000. We narrowed the variables list to the most well supported through a literature search and developed an initial model to determine factors that were not significant or were highly correlated with other variables.</p>
-<p>These variables, in addition to variables with high variance inflation factors or other variables with high collinearity by correlation matrix, were dropped. This procedure dropped medianhouseholdincome, which had the highest VIF. The response variable evictionrate underwent a square root transformation to address heteroscedasticity.</p>
-Our final model: #
-<span class="math display">\[\begin{eqnarray}
-$$
-\begin{split}
-\sqrt{evictionrate} = 2.180568248 + \\
-0.004637722 \cdot povertyrate +     \\   
-0.021455878 \cdot \text{perc 16yrs and over unemployed} +  \\
--0.010635330 \cdot \text{perbachandup} + \\
- 0.010059336 \cdot \text{pctafam} + \\
- -0.001889045 \cdot \text{pctasian} + \\
- -0.001125114  \cdot \text{pcthispanic} + \\
- 0.126704748 \cdot  \text{SLT EXEMPT TOTAL} + \\
- -0.868900102 \cdot \text{SLT TREMEDIES TOTAL} + \\
- 0.203698303 \cdot \text{SLT Retaliation} + \\
- 0.393518820 \cdot \text{FHP ExemptHousing TOTAL} + \\
- -0.401157873 \cdot \text{SLT LREMEDIES_TOTAL} + \\
- \dots + -0.38142290 \cdot \text{cityRichmond city, VA}  \\
- \end{split} $$
-#\end{eqnarray}\]</span>
-<p>In the final model, all variables were significant at the 0.05 significance level. The reference level was the percentage of the total population estimated in the 2011-2016 ACS identifying racially as white, Native Hawaiian and Other Pacific Islander, American Indian and Alaska Native, two or more races, or as Other race.</p>
+</div>
+<div id="data" class="section level2">
+<h2>1. Data</h2>
+<p>Data was collected and joined on tract GEOID across the following sources:</p>
+<ul>
+<li>2013-2017 <a href="https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2017/">American Community Survey</a>: highest educational attainment, unemployment</li>
+<li>Missouri Census Data Center’s 2018 <a href="http://mcdc.missouri.edu/applications/geocorr.html">Geocorr database</a> to understand tracts in terms of their corresponding census places, namely cities.</li>
+<li><a href="https://evictionlab.org/">Eviction Lab at Princeton University</a>: Census tract level data on evictionrates, povertyrate, median income, and race.</li>
+<li><a href="https://lawatlas.org/topics">Policy Atlas</a> – State level laws on eviction, fair housing, and landlord-tenant laws.</li>
+<li>The sample consist of census tracts in cities with a population between 100,000-300,000.</li>
+<li>The final dataset contained 2,600 census tracts in 78 cities across the US.</li>
+</ul>
+</div>
+<div id="methods" class="section level2">
+<h2>2. Methods</h2>
+<ul>
+<li><p>A Regression model was estimated from data at the census tract level, which included socio-demographic variables, city level fixed effects, and state level housing variables. The variables in our models were chosen based on a thorough literature search. We did further analysis to to determine factors that were not significant or were highly correlated with other variables. These variables, in addition to variables with high variance inflation factors or other variables with high collinearity by correlation matrix, were dropped. —–Boya to check this.</p></li>
+<li><p>Visualization of the Eviction Intensity Index created using standardized residuals from the regression model. While the goal of most statistical analyses is to focus on what the model ‘explains,’ that is, its predictions, and to determine how changes in the explanatory factors might impact these predictions, here we are taking the opposite approach. After we have done the best job possible of constructing a statistical model to explain eviction rates, we focus on what remains unexplained. In this way, we attempt to explore and focus on the model’s large, positive “misses” as a way to identify census track locations that are, in essence, eviction hotspots, whatever the reason. Furthermore, if eviction hotspots are clustered in a handful of cities as opposed to being more-or-less randomly distributed across the various cities included in the analysis, then we have further evidence of potential systemic, local, and structural issues that may be resulting in unexpectedly high eviction rates.</p></li>
+<li><p>Visualization of the key sociodemographic variables identified in the regression model to be correlated with eviction and their evolution between 2013-2018</p></li>
+</ul>
 </div>

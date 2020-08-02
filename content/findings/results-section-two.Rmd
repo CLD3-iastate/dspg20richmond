@@ -1,24 +1,41 @@
 ---
-title: "Modeling Census Tract Level Evictions - Findings"
-tags: ["R", "geospatial", "app"]
+title: "Findings 2"
 weight: 2
 draft: false
 output: html_document
 ---
 
-```{css, echo=FALSE}
-/* this chunnk of code centers all of the headings */
-h1, h2, h3 {
-  text-align: center;
-}
+```{r global_options, include = FALSE}
+library(knitr)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  cache = TRUE,
+  autodep = TRUE,
+  cache.comments = FALSE,
+  tidy = FALSE,
+  fig.width = 7,
+  fig.height = 7,
+  out.width = "65%")
+knitr::include_graphics
+# install.packages
+library(shiny)
+library(shinydashboard)
+library(DT)
+library(readr)
+library(shinyWidgets)
+library(magrittr)
+library(tidyverse)
+library(sf)
+library(leaflet)
+library(readr)
+library(wordcloud)
+library(dplyr)
+library(tm)
+library(RColorBrewer)
+library(ggplot2)
 ```
 
-### Embedding Shiny Apps
+####Modeling Census Tract Level Evictions : Richmond: Visualizing An Index Of Eviction Intensity
 
-```{r, echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
-knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
-knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/')
-knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
-  
-```
+The Eviction Intensity Index we created from our regression model was used to rank all census tracts in U.S. cities that are comparable in size to Richmond in the United States. The wordcloud below visualizes the frequency that census tracts with the words “Richmond City” show up in a list of the top 320 most eviction intense tracts in the US. Richmond is clearly among the most prominent cities that appear below second only to Greensboro, NC. There are three other Virginia cities used in our analysis: Newport News, VA, Chesapeake, VA, and Hampton, VA. An analysis with only tracts in the state of Virginia shows a similar pattern with the tracts in Richmond dominating the top spots.

@@ -1,0 +1,24 @@
+---
+title: "Findings 3"
+tags: ["R", "geospatial", "app"]
+weight: 3
+draft: false
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+### Embedding Shiny Apps
+
+```{r, echo=FALSE, fig.fullwidth=TRUE}
+knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
+knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
+knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/')
+knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
+  
+```

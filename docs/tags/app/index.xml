@@ -11,29 +11,11 @@
     
     
     <item>
-      <title>Modeling Census Tract Level Evictions - Findings</title>
-      <link>/findings/results-section-two/</link>
+      <title>Findings 3</title>
+      <link>/findings/results-section-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/findings/results-section-two/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>/findings/copyofresults-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/copyofresults-section-one/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>/findings/results-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/results-section-one/</guid>
+      <guid>/findings/results-section-three/</guid>
       <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
     </item>
     
