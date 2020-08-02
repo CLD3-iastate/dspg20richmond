@@ -37,23 +37,18 @@ To better understand the framework of the many complex aspects of living, and co
 
 Consequences of eviction: 
 
-* Poverty increase 
-<<<<<<< HEAD
-* Lower quality education 
-* Lower safety 
-=======
++ Poverty increase 
 + Lower quality education 
 + Lower safety 
->>>>>>> parent of bdf3034... Fixed image on overview page
-
-
++ Lower quality education 
++ Lower safety 
 
 ### Regression model  {style=text-align:center}
 To study eviction we created a regression model that combines the influx of sociodemographic variables such as poverty rate, ethnicity, education level, together with the effect of policies and the median household income.  
+
 We focus on the features that can help us explain the diverse geographies and the displacement modes together with the influx that such variables have and the linkage among them.  
 
  
-
 ### References  {style=text-align:center}
 
 [1] Washington, Lark. "Rehouse Richmond: Plan to Address the Eviction Crisis." (2020). 

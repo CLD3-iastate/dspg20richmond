@@ -21,40 +21,38 @@
     </item>
     
     <item>
-      <title>Results Section One</title>
-      <link>/findings/results-section-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/results-section-one/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Examples Page If you want to add in an image on an Rmd file, use this link here. It ends up being a little tricky, but as long as you have created a folder to insert your images, you can just use some markdown code or html to insert images in the format you want.</description>
-    </item>
-    
-    <item>
-      <title>Results Section Two</title>
+      <title>Modeling Census Tract Level Evictions - Findings</title>
       <link>/findings/results-section-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-two/</guid>
-      <description>[Here you will describe the data discoversy process, the data used, and the methods employed for this single page. Since you already have a Project Overview and Data &amp;amp; Methods tabs, you probably want to keep this first paragraph fairly short and use the rest of the document to walk your readers through your analyses.]
-Main Findings [Here you will describe the results and include important visualizations from your project.</description>
+      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
     </item>
     
     <item>
-      <title>Results Section Three</title>
-      <link>/findings/results-section-three/</link>
+      <title>Shiny Apps</title>
+      <link>/findings/copyofresults-section-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/findings/results-section-three/</guid>
-      <description>[Here you will describe the data discoversy process, the data used, and the methods employed for this single page. Since you already have a Project Overview and Data &amp;amp; Methods tabs, you probably want to keep this first paragraph fairly short and use the rest of the document to walk your readers through your analyses.]
-Main Findings [Here you will describe the results and include important visualizations from your project.</description>
+      <guid>/findings/copyofresults-section-one/</guid>
+      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
+    </item>
+    
+    <item>
+      <title>Shiny Apps</title>
+      <link>/findings/results-section-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/findings/results-section-one/</guid>
+      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Embedding Shiny Apps      </description>
     </item>
     
     <item>
       <title></title>
-      <link>/methods/</link>
+      <link>/methods_ref/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/methods/</guid>
+      <guid>/methods_ref/</guid>
       <description>2020 Richmond City Summer Project Data and Methodology This research uses data from The Eviction Lab at Princeton University, a project directed by Matthew Desmond and designed by Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. The Eviction Lab is funded by the JPB, Gates, and Ford Foundations as well as the Chan Zuckerberg Initiative. More information is found at evictionlab.org. For our primary data source, we used the Eviction Lab’s records on evictions at the 2010 census tract level for all cities.</description>
     </item>
     
@@ -84,17 +82,7 @@ Our Approach The VT-DSPG program partnered with VCE to first identify the factor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/</guid>
-      <description>Data Science for the Public Good Program  The Data Science for the Public Good (DSPG) Young Scholars program](https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program) is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/findings/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/test/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <description>Data Science for the Public Good Program  The Data Science for the Public Good (DSPG) Young Scholars program(https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program) is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today.</description>
     </item>
     
   </channel>

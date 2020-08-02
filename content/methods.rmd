@@ -10,7 +10,23 @@ In our regression model, we analyzed tracts whose parent cities had a population
 These variables, in addition to variables with high variance inflation factors or other variables with high collinearity by correlation matrix, were dropped. This procedure dropped medianhouseholdincome, which had the highest VIF. The response variable evictionrate underwent a square root transformation to address heteroscedasticity.
 
 Our final model: 
-\[sqrt(evictionrate) = 2.180568248 + 
-(0.004637722 povertyrate) + 0.021455878 \times \text{perc_16yrs_and_over_unemployed} + -0.010635330 * \text{per_bach_and_up} + 0.010059336* \text{pctafam} + -0.001889045*\text{pctasian} + -0.001125114*\text{pcthispanic} + 0.126704748 * \text{SLT_EXEMPT_TOTAL} + -0.868900102 * \text{SLT_TREMEDIES_TOTAL} + 0.203698303 * \text{SLT_Retaliation} + 0.393518820 * \text{FHP_ExemptHousing_TOTAL} + -0.401157873 * \text{SLT_LREMEDIES_TOTAL} + \dots + -0.38142290 * \text{cityRichmond city, VA} \]
+#\begin{eqnarray}
+$$
+\begin{split}
+\sqrt{evictionrate} = 2.180568248 + \\
+0.004637722 \cdot povertyrate +     \\   
+0.021455878 \cdot \text{perc 16yrs and over unemployed} +  \\
+-0.010635330 \cdot \text{perbachandup} + \\
+ 0.010059336 \cdot \text{pctafam} + \\
+ -0.001889045 \cdot \text{pctasian} + \\
+ -0.001125114  \cdot \text{pcthispanic} + \\
+ 0.126704748 \cdot  \text{SLT EXEMPT TOTAL} + \\
+ -0.868900102 \cdot \text{SLT TREMEDIES TOTAL} + \\
+ 0.203698303 \cdot \text{SLT Retaliation} + \\
+ 0.393518820 \cdot \text{FHP ExemptHousing TOTAL} + \\
+ -0.401157873 \cdot \text{SLT LREMEDIES_TOTAL} + \\
+ \dots + -0.38142290 \cdot \text{cityRichmond city, VA}  \\
+ \end{split} $$
+#\end{eqnarray}
 
 In the final model, all variables were significant at the 0.05 significance level. The reference level was the percentage of the total population estimated in the 2011-2016 ACS identifying racially as white, Native Hawaiian and Other Pacific Islander, American Indian and Alaska Native, two or more races, or as Other race.

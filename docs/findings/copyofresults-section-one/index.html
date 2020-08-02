@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title></title>
-        <link rel="canonical" href="../methods/">
+        <title>Shiny Apps</title>
+        <link rel="canonical" href="../../findings/copyofresults-section-one/">
         <style>
 
     html body {
@@ -33,7 +33,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
 
 
-<link rel="stylesheet" href="../css/main.css">
+<link rel="stylesheet" href="../../css/main.css">
 
 
 
@@ -101,19 +101,19 @@ $(document).ready(function(){
         
 
     
-    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-    <link rel="manifest" href="../site.webmanifest">
-    <link rel="mask-icon" href="../img/favicon/safari-pinned-tab.svg" color="#000000">
-    <link rel="shortcut icon" href="../img/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../img/favicon/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="../../img/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     
     
     
-    <meta property="og:title" content="">
+    <meta property="og:title" content="Shiny Apps">
     <meta property="og:type" content="article">
       
       <meta name="twitter:card" content="summary">
@@ -138,7 +138,7 @@ $(document).ready(function(){
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#"></a>
+                    <a class="navbar-brand visible-xs" href="#">Shiny Apps</a>
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -149,15 +149,15 @@ $(document).ready(function(){
                     
                         <ul class="nav navbar-nav">
                             
-                                <li><a href="../">Home</a></li>
+                                <li><a href="../../">Home</a></li>
                             
-                                <li><a href="../overview/">Overview</a></li>
+                                <li><a href="../../overview/">Overview</a></li>
                             
-                                <li><a href="../methods/">Data &amp; Methods</a></li>
+                                <li><a href="../../methods/">Data &amp; Methods</a></li>
                             
-                                <li><a href="../findings/">Findings</a></li>
+                                <li><a href="../../findings/">Findings</a></li>
                             
-                                <li><a href="../team/">Team</a></li>
+                                <li><a href="../../team/">Team</a></li>
                             
                         </ul>
                     
@@ -193,39 +193,48 @@ $(document).ready(function(){
       
     
 
-    <h4><a href="../methods/"></a></h4>
+    <h4><a href="../../findings/copyofresults-section-one/">Shiny Apps</a></h4>
     
     <h5></h5>
 
     
     
+    <a href="../../tags/r">
+        <kbd class="item-tag"> R </kbd>
+    </a>
+    
+    <a href="../../tags/geospatial">
+        <kbd class="item-tag"> geospatial </kbd>
+    </a>
+    
+    <a href="../../tags/app">
+        <kbd class="item-tag"> app </kbd>
+    </a>
+    
 
 </div>
 
 
-    <br> <div class="text-justify"><h3 style="text-align:center" id="2020-richmond-city-summer-project">2020 Richmond City Summer Project</h3>
-<h3 style="text-align:center" id="data-and-methodology">Data and Methodology</h3>
-<p>This research uses data from The Eviction Lab at Princeton University, a project directed by Matthew Desmond and designed by Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. The Eviction Lab is funded by the JPB, Gates, and Ford Foundations as well as the Chan Zuckerberg Initiative. More information is found at evictionlab.org. For our primary data source, we used the Eviction Lab’s records on evictions at the 2010 census tract level for all cities.</p>
-<p>We also used tract level data from the 2013-2017 American Community Survey on highest educational attainment and unemployment, and state level policy variables related to protections for landlords and tenants. As we wanted to analyze the model’s results for Richmond, VA, we also utilized the Missouri Census Data Center&rsquo;s 2018 Geocorr database to understand tracts in terms of their corresponding census places, namely cities.</p>
-<p>In our regression model, we analyzed tracts whose parent cities had a population between 100,000-300,000. We narrowed the variables list to the most well supported through a literature search and developed an initial model to determine factors that were not significant or were highly correlated with other variables.</p>
-<p>These variables, in addition to variables with high variance inflation factors or other variables with high collinearity by correlation matrix, were dropped. This procedure dropped medianhouseholdincome, which had the highest VIF. The response variable evictionrate underwent a square root transformation to address heteroscedasticity.</p>
-<p>Our final model:
-\begin{eqnarray}
-\sqrt{evictionrate} = 2.180568248 +
-0.004637722 \cdot povertyrate +     <br>
-0.021455878 \cdot \text{perc_16yrs_and_over_unemployed} +<br>
--0.010635330 \cdot \text{per_bach_and_up} +
-0.010059336 \cdot \text{pctafam} +
--0.001889045 \cdot \text{pctasian} +
--0.001125114  \cdot \text{pcthispanic} +
-0.126704748 \cdot  \text{SLT_EXEMPT_TOTAL} +
--0.868900102 \cdot \text{SLT_TREMEDIES_TOTAL} +
-0.203698303 \cdot \text{SLT_Retaliation} +
-0.393518820 \cdot \text{FHP_ExemptHousing_TOTAL} +
--0.401157873 \cdot \text{SLT_LREMEDIES_TOTAL} +
-\dots + -0.38142290 \cdot \text{cityRichmond city, VA}
-\end{eqnarray}</p>
-<p>In the final model, all variables were significant at the 0.05 significance level. The reference level was the percentage of the total population estimated in the 2011-2016 ACS identifying racially as white, Native Hawaiian and Other Pacific Islander, American Indian and Alaska Native, two or more races, or as Other race.</p>
+    <br> <div class="text-justify">
+
+
+<style type="text/css">
+/* this chunnk of code centers all of the headings */
+h1, h2, h3 {
+  text-align: center;
+}
+</style>
+<div id="embedding-shiny-apps" class="section level3">
+<h3>Embedding Shiny Apps</h3>
+<iframe src="https://afrina.shinyapps.io/Shiny_eviction_2020/?showcase=0" width="672" height="400px">
+</iframe>
+<iframe src="https://tabassum.shinyapps.io/Model_Variables/?showcase=0" width="672" height="400px">
+</iframe>
+<iframe src="https://afrina.shinyapps.io/Shiny_Eviction_Rate/?showcase=0" width="672" height="400px">
+</iframe>
+<iframe src="https://wellay01.shinyapps.io/ShinyRichmond/?showcase=0" width="672" height="400px">
+</iframe>
+</div>
 </div>
 
     

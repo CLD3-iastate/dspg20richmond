@@ -7,19 +7,19 @@
   </url>
   
   <url>
-    <loc>/findings/results-section-one/</loc>
-  </url>
-  
-  <url>
     <loc>/findings/results-section-two/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-three/</loc>
+    <loc>/findings/copyofresults-section-one/</loc>
   </url>
   
   <url>
-    <loc>/methods/</loc>
+    <loc>/findings/results-section-one/</loc>
+  </url>
+  
+  <url>
+    <loc>/methods_ref/</loc>
     <priority>0</priority>
   </url>
   
@@ -46,19 +46,11 @@
   </url>
   
   <url>
-    <loc>/tags/collapsibletree/</loc>
-  </url>
-  
-  <url>
     <loc>/findings/</loc>
   </url>
   
   <url>
     <loc>/tags/geospatial/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/networks/</loc>
   </url>
   
   <url>
@@ -71,10 +63,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/findings/test/</loc>
   </url>
   
   <url>
