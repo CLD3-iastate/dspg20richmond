@@ -3,15 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/findings/general-overview_ref/</loc>
+    <loc>/overview/</loc>
   </url>
   
   <url>
     <loc>/findings/results-section-one/</loc>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
   </url>
   
   <url>
@@ -20,6 +16,10 @@
   
   <url>
     <loc>/findings/results-section-three/</loc>
+  </url>
+  
+  <url>
+    <loc>/findings/references/</loc>
   </url>
   
   <url>
