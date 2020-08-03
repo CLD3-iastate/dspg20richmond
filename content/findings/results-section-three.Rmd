@@ -42,4 +42,4 @@ knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
   
 ```
 
-[Continue to Conclusion](https://boya66.github.io/Richmond_website/findings/results_section-four/)
+[Continue to Conclusion](https://boya66.github.io/Richmond_website/findings/results-section-four/)
