@@ -23,11 +23,7 @@ In the visualization below, we have eviction filings between Jan-May 2020. This 
 ```{r, echo=FALSE, fig.height=15, fig.fullwidth=TRUE}
 knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/', height="610px")
 
-
-
 ```
-
-<iframe src ="https://afrina.shinyapps.io/Shiny_eviction_2020/" height=610px width=800px />
 
 In the visualization below we have the Socio-Demographic Factors used in the regression model over time (2013-2018).
 
