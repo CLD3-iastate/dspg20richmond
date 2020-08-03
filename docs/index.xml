@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/overview/</guid>
-      <description>Understanding Evictions in Richmond City: Policy, Community, and Individual Factors 2020 Richmond City Project The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG used publicly available data to characterize areas of high eviction need in Richmond.
- Project Goals This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond.</description>
+      <description>An Investigation of Eviction Rates in Richmond  ### 2020 Richmond City Project  The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG used publicly available data to characterize areas of high eviction need in Richmond.
+ Project Goals  This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond.</description>
     </item>
     
     <item>
@@ -46,8 +46,27 @@ Socio-demographic:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-three/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Discussion and Next Steps We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
- Laws that reduce protected class exemptions in housing-related transactions, Laws that protect tenants from retaliation by landlords, Laws that reduce the number of exemptions landlords have from state landlord-tenant law can affect evictions rates.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Modeling Census Tract Level Evictions: Visualization of socio-demographic variables and eviction rates in Richmond 2013-2018 To provide further guidance for policymakers interested in understanding evictions in Richmond, we provide a dashboard that can be used to visualize the socio-demographic variables that our statistical model identified as being associated with eviction rates.</description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/methods/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Data Data was collected and joined on tract GEOID across the following sources:
+ 2013-2017 American Community Survey: highest educational attainment, unemployment Missouri Census Data Center’s 2018 Geocorr database to understand tracts in terms of their corresponding census places, namely cities. Eviction Lab at Princeton University: Census tract level data on eviction rates, poverty rate, median income, and race.</description>
+    </item>
+    
+    <item>
+      <title>Conclusion</title>
+      <link>/findings/results-section-four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/findings/results-section-four/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
+ Laws that protected class exemptions in housing-related transactions, Laws that protect tenants from retaliation by landlords Laws that reduce the number of exemptions landlords have from state landlord-tenant law  can affect evictions rates.</description>
     </item>
     
     <item>
@@ -64,22 +83,12 @@ Desmond, Matthew. 2012 “Eviction and the reproduction of urban poverty.</descr
     </item>
     
     <item>
-      <title></title>
-      <link>/methods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/methods/</guid>
-      <description>2020 Richmond City Summer Project Data Data was collected and joined on tract GEOID across the following sources:
- 2013-2017 American Community Survey: highest educational attainment, unemployment Missouri Census Data Center’s 2018 Geocorr database to understand tracts in terms of their corresponding census places, namely cities. Eviction Lab at Princeton University: Census tract level data on eviction rates, poverty rate, median income, and race. Policy Atlas – State level laws on eviction, fair housing, and landlord-tenant laws.</description>
-    </item>
-    
-    <item>
       <title> </title>
       <link>/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/</guid>
-      <description>Data Science for the Public Good Program  The Data Science for the Public Good (DSPG) Young Scholars program(https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program) is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Data Science for the Public Good Program The Data Science for the Public Good (DSPG) Young Scholars program(https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program) is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today.</description>
     </item>
     
   </channel>

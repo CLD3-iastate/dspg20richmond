@@ -1,0 +1,25 @@
+---
+title: "Conclusion"
+weight: 4
+draft: false
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
+
+* Laws that protected class exemptions in housing-related transactions,
+* Laws that protect tenants from retaliation by landlords
+* Laws that reduce the number of exemptions landlords have from state landlord-tenant law
+
+can affect evictions rates.
+
+Positive values of the eviction intensity indicator show there are still census tracts where eviction rates are not fully explained by sociodemographic and state level policy variables. We believe these communities need to be studied further to identify the remaining factors driving their high eviction rates. As policy makers and extension analysts work to uncover these unknown factors, they may become better positioned to design and deliver successful programs.
+
+[Continue to References](https://boya66.github.io/Richmond_website/findings/references/)
