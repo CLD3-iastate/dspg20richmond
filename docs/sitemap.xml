@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>/overview_ref/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/team_ref/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/team/</loc>
   </url>
   

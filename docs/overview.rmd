@@ -16,31 +16,12 @@ This project aims to help Virginia Cooperative Extension (VCE) carefully target 
 
 ### Our Approach {style=text-align:center}
 
-The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Then used this information to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
+The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
 
 ### Project Goals {style=text-align:center}
 In our project, we examine eviction rates across cities in the United States. The first step is to create a regression model, which shows the key state-level policies and socio-demographic characteristics that affect eviction rates. Next, we present a dashboard of maps where the user can select a characteristic and visualize geospatial differences across Census tracts in Richmond. These maps highlight the census tracts where further intervention may be warranted. Our analysis and contextualization will allow Virginia Cooperative Extension to carefully target their nutrition and financial literacy programs to the areas of highest need in Richmond and elsewhere in Virginia.
 
 ### Project Approach  {style=text-align:center}
-Oftentimes the convergence of housing demand and supply has reduced the meaning of living to a mere consumption need that can be satisfied in the market like every other need. __Living is indeed a process that involves individuals and their actions and relationships.__
-To better understand the framework of the many complex aspects of living, and consequently of eviction, we should consider the strong implications that living has with the surrounding environment.
+As Foley (1980) notes, housing is much more than physical shelter. It is a choice of a neighborhood and everything that encompasses it: community facilities and services, community socio-demographic characteristics, access to employment, security, and social factors as defined in the schematic below. Eviction is defined as the removal of a tenant from a rental property by a landlord. A study of evictions is a study of removal from housing. The eviction framework outlined below, therefore, includes both aspects of housing and, also, additional characteristics that lead to eviction (Theresa, 2018). These may include financial literacy, education, and state and local policies that protect renters or favor landlords, and unexpected shocks to families and communities.
 
  ![](/ev_fr.png)
-
-####Consequences of eviction: {style=text-align:center}
-
-+ Poverty increase 
-+ Lower quality education 
-+ Lower safety 
-+ Lower quality education 
-+ Lower safety 
-
-### References  {style=text-align:center}
-
-Washington, Lark. "Rehouse Richmond: Plan to Address the Eviction Crisis." (2020). 
-
-Desmond, Matthew. "Eviction and the reproduction of urban poverty." American Journal of Sociology 118.1 (2012): 88-133. 
-
-Teresa, B. "The Geography of Eviction in Richmond: Beyond Poverty." RVA Eviction Lab. Geographies of Eviction. pdf (2018). 
-
-Lempert, Richard, and Kiyoshi Ikeda. "Evictions from public housing: effects of independent review." American Sociological Review (1970): 852-860. 

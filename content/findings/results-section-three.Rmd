@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ##Modeling Census Tract Level Evictions: Visualization of socio-demographic variables and eviction rates in Richmond 2013-2018
 
-In the visualization below, we visualized an eviction indicator for census tracts in the city of Richmond.
+In the visualization below, we have an eviction indicator for census tracts in the city of Richmond.
 
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://tabassum.shinyapps.io/residual_inference/')
@@ -23,25 +23,28 @@ knitr::include_app('https://tabassum.shinyapps.io/residual_inference/')
 
 ### Embedded Shiny Apps
 
-In the visualization below, we visualized eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due the COVID pandemic. We can see that after March  eviction filings dropped drastically. 
+In the visualization below, we have eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due the COVID pandemic. We can see that after March eviction filings dropped drastically. 
+
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
 ```
 
-In the visualization below we visualized the Socio-Demographic Factors used in the regression model over time (2013-2018).
+In the visualization below we have the Socio-Demographic Factors used in the regression model over time (2013-2018).
 
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
   
 ```
-In the visualization below, we showed the eviction rate at the census tract level from 2000-2016.
+In the visualization below, we have the eviction rate at the census tract level from 2000-2016.
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/')
   
 ```
 
-In the visualization below, we showed the median housing price at the census tract level from 2000-2018.
+In the visualization below, we have the median housing price at the census tract level from 2000-2018.
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
   
 ```
+
+[Continue to References](https://boya66.github.io/Richmond_website/findings/references/)

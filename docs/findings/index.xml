@@ -16,10 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-one/</guid>
-      <description> Findings 1 Modeling Census Tract Level Evictions : Correlates Of Eviction Rates The following variables were significantly associated with census tract level evictions.
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Modeling Census Tract Level Evictions: Correlates Of Eviction Rates The following variables were significantly associated with census tract level evictions.
 Socio-demographic:
- Percentage of tract that is Black or African American (+), Percentage of tract aged 16+ who are unemployed (+), Census tract poverty rate (+), Percentage of tract with a bachelor’s degree (-),  State Policy factors
- Number of exemptions to Fair Housing Laws (landlord friendly) (+), Number of exemptions landlords have from state landlord-tenant law (landlord friendly) (+), Number of legal remedies available to tenants (-), Number of total legal remedies available to landlords (-)    </description>
+ Percentage of tract that is Black or African American (+), Percentage of tract aged 16+ who are unemployed (+), Census tract poverty rate (+), Percentage of tract with a bachelor’s degree (-),  State policy factors:</description>
     </item>
     
     <item>
@@ -37,8 +36,8 @@ Socio-demographic:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-three/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Modeling Census Tract Level Evictions: Visualization of socio-demographic variables and eviction rates in Richmond 2013-2018 In the visualization below, we visualized an eviction indicator for census tracts in the city of Richmond.
- Embedded Shiny Apps In the visualization below, we visualized eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due the COVID pandemic.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Modeling Census Tract Level Evictions: Visualization of socio-demographic variables and eviction rates in Richmond 2013-2018 In the visualization below, we have an eviction indicator for census tracts in the city of Richmond.
+ Embedded Shiny Apps In the visualization below, we have eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due the COVID pandemic.</description>
     </item>
     
     <item>
@@ -50,7 +49,8 @@ Socio-demographic:
       <description>Eviction Lab Data Downloads. (2018). Retrieved July 30, 2020, from https://eviction-lab-data-downloads.s3.amazonaws.com/DATA_DICTIONARY.txt
 Missouri Census Data Center. (2018). Retrieved July 30, 2020, from http://mcdc.missouri.edu/applications/geocorr2018.html
 Eviction Lab Data: Matthew Desmond, Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. Eviction Lab National Database: Version 1.0. Princeton: Princeton University, 2018, www.evictionlab.org.
-Washington, Lark. &amp;quot;Rehouse Richmond: Plan to Address the Eviction Crisis.&amp;quot; (2020). Desmond, Matthew. &amp;quot;Eviction and the reproduction of urban poverty.</description>
+Washington, Lark. “Rehouse Richmond: Plan to Address the Eviction Crisis.” (2020).
+Desmond, Matthew. 2012 “Eviction and the reproduction of urban poverty.</description>
     </item>
     
   </channel>
