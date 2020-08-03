@@ -20,54 +20,31 @@ To provide further guidance for policymakers interested in understanding evictio
 
 In the visualization below, we have eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due the COVID pandemic. We can see that after March eviction filings dropped drastically. 
 
-```{r, echo=FALSE, fig.fullwidth=TRUE, fig.fullheight=TRUE}
-par(mfrow=c(2,2))
-knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
+```{r, echo=FALSE, fig.height=15, fig.fullwidth=TRUE}
+knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/', height="610px")
 
-knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
+
+
 ```
+
+<iframe src ="https://afrina.shinyapps.io/Shiny_eviction_2020/" height=610px width=800px />
 
 In the visualization below we have the Socio-Demographic Factors used in the regression model over time (2013-2018).
 
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
+knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/', height="750px")
   
 ```
 In the visualization below, we have the eviction rate at the census tract level from 2000-2016.
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/')
+knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/', height="615px")
   
 ```
 
 In the visualization below, we have the median housing price at the census tract level from 2000-2018.
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/')
+knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/', height="615px")
   
 ```
 
 [Continue to Conclusion](https://boya66.github.io/Richmond_website/findings/results-section-four/)
-
-
-
-:::::: {.cols data-latex=""}
-
-::: {.col data-latex="{0.55\textwidth}"}
-```{r, echo=FALSE, fig.fullwidth=TRUE}
-par(mfrow=c(2,2))
-knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/')
-```
-:::
-
-::: {.col data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-
-::: {.col data-latex="{0.4\textwidth}"}
-```{r, echo=FALSE, fig.fullwidth=TRUE}
-
-knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/')
-```
-:::
-::::::
