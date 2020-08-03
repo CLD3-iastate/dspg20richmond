@@ -23,29 +23,29 @@ In its seventh year, the program engages students from across the country to wor
 ### DSPG Team Members {style=text-align:center}
 
 <center>
-![Boya Zhang](../docs/team_files/Boya.Zhang.VT.jpg){width=150px height=160px}![Dylan Glover](../docs//team_files/Dylan.Glover.VT.jpg){width=150px height=160px}![Laura Pranteddu](../docs/team_files/Laura.Pranteddu.VT.JPG){width=150px height=160px}
-![Afrina Tabassum](../docs/team_files/Afrina.Tabassum.VT.jpg){width=150px height=160px}![Adam Wells](../docs/team_files/Adam.Wells.VT.jpg){width=150px height=160px}
+![Boya Zhang](/team_files/Boya.Zhang.VT.jpg){width=150px height=160px}![Dylan Glover](/team_files/Dylan.Glover.VT.jpg){width=150px height=160px}![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG){width=150px height=160px}
+![Afrina Tabassum](/team_files/Afrina.Tabassum.VT.jpg){width=150px height=160px}![Adam Wells](/team_files/Adam.Wells.VT.jpg){width=150px height=160px}
 
-[Boya Zhang, Fellow (PhD Student at Virginia Tech, Statistics)](https://github.com/boya66)
+[Boya Zhang, Fellow (PhD student at Virginia Tech, Statistics)](https://github.com/boya66)
 
-[Dylan Glover, Intern (Undergraduate Student at Virginia Tech, Mathematics)](https://github.com/dyglover)
+[Dylan Glover, Intern (Undergraduate student at Virginia Tech, Mathematics)](https://github.com/dyglover)
 
-[Laura Pranteddu, Intern (Master Student at University of Trento, Data Science)](https://github.com/lp9kh) 
+[Laura Pranteddu, Intern (Master's student at University of Trento, Data Science)](https://github.com/lp9kh) 
 
 [Afrina Tabassum, Intern (PhD student at University of Trento, Computer Science)](https://github.com/afrinaVT)    
 
-[Adam Wells, Intern (Master Student at Virginia Tech, Data Analysis and Applied Statistics)](https://github.com/wellay01)
+[Adam Wells, Intern (Master's student at Virginia Tech, Data Analysis and Applied Statistics)](https://github.com/wellay01)
 
 ### VT Faculty Team Members {style=text-align:center}
 
 <center>
-![Susan Chen](../docs/team_files/Susan.Chen.VT.jpg){width=150px height=160px}![Ford Ramsey](../docs/team_files/Ford.Ramsey.VT.jpg){width=150px height=160px}![Conoway Haskins](../docs/team_files/Conaway.Haskins.VT.jpg){width=150px height=160px}![Matt Holt](../docs/team_files/Matt.Holt.VT.jpg){width=150px height=160px}
+![Susan Chen](/team_files/Susan.Chen.VT.jpg){width=150px height=160px}![Conoway Haskins](/team_files/Conaway.Haskins.VT.jpg){width=150px height=160px}![Matt Holt](/team_files/Matt.Holt.VT.jpg){width=150px height=160px}![Ford Ramsey](/team_files/Ford.Ramsey.VT.jpg){width=150px height=160px}
 
-[Susan Chen (Associate Professor at Virginia Tech, Agricultural & Applied Economics)](https://aaec.vt.edu/people/faculty/chen-susan.html), [Ford Ramsey (Assistant Professor at Virginia Tech, Agricultural & Applied Economics, DSPG Project Lead)](https://aaec.vt.edu/people/faculty/ramsey-ford.html), [Conoway Haskins (Extension Specialist at Virginia Cooperative Extension)](https://ext.vt.edu/community-leadership/people/conaway-haskins.html), [Matt Holt (Department Head, Professor, Agribusiness, Applied Econometrics, Principal Investigator)](https://aaec.vt.edu/people/faculty/holt-matthew.htmln)
+[Susan Chen (Associate Professor at Virginia Tech, Agricultural & Applied Economics)](https://aaec.vt.edu/people/faculty/chen-susan.html), [Conoway Haskins (Extension Specialist at Virginia Cooperative Extension)](https://ext.vt.edu/community-leadership/people/conaway-haskins.html), [Matt Holt (Department Head, Professor, Agribusiness, Applied Econometrics, Principal Investigator)](https://aaec.vt.edu/people/faculty/holt-matthew.htmln), [Ford Ramsey (Assistant Professor at Virginia Tech, Agricultural & Applied Economics, DSPG Project Lead)](https://aaec.vt.edu/people/faculty/ramsey-ford.html)
 
 ### Project Sponsors/Stakeholders {style=text-align:center}
 <center>
-![VCE](../docs/team_files/VCE.Logo.png){width=300px height=200px}
+![VCE](/team_files/VCE.Logo.png){width=300px height=200px}
 <center>
 
 [Twandra Lomax-Brown (Unit Coordinator Extension Agent, Family and Consumer Sciences)](https://www.linkedin.com/in/twandra-lomax-brown-ma-ed-5554859/)
