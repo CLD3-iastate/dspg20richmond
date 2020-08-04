@@ -15,7 +15,6 @@ h1, h2, h3 {
 
 The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG team used publicly available data to characterize areas of high eviction need in Richmond. This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond. The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
 
-
 ### Project Goals
 
 
@@ -27,4 +26,5 @@ In our project, we examine eviction rates across cities in the United States. Th
 
 As Foley (1980) notes, housing is much more than physical shelter. It is a choice of a neighborhood and everything that encompasses it: community facilities and services, community socio-demographic characteristics, access to employment, security, and social factors as defined in the schematic below. Eviction is defined as the removal of a tenant from a rental property by a landlord. A study of evictions is a study of removal from housing. The eviction framework outlined below, therefore, includes both aspects of housing and, also, additional characteristics that lead to eviction (Theresa, 2018). These may include financial literacy, education, and state and local policies that protect renters or favor landlords, and unexpected shocks to families and communities.
 
- ![](ev_fr.png)
+ ![](/ev_fr.png)
+ 
