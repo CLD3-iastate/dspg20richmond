@@ -13,24 +13,13 @@ h1, h2, h3 {
 
 ##An Investigation of Eviction Rates in Richmond
 
-The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG used publicly available dat to characterize areas of high eviction need in Richmond.
-
-### Project Goals
-
-
-This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond. 
-
-
-### Our Approach
-
-
-The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
+The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG team used publicly available data to characterize areas of high eviction need in Richmond. This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond. The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
 
 
 ### Project Goals
 
 
-In our project, we examine eviction rates across cities in the United States. The first step is to create a regression model, which shows the key state-level policies and socio-demographic characteristics that affect eviction rates. Next, we present a dashboard of maps where the user can select a characteristic and visualize geospatial differences across Census tracts in Richmond. These maps highlight the census tracts where further intervention may be warranted. Our analysis and contextualization will allow Virginia Cooperative Extension to carefully target their nutrition and financial literacy programs to the areas of highest need in Richmond and elsewhere in Virginia.
+In our project, we examine eviction rates across cities in the United States. The first step is to create a regression model, which shows the key state-level policies and socio-demographic characteristics that affect eviction rates. Next, we present a dashboard of maps where the user can select a characteristic and visualize geospatial differences across census tracts in Richmond. These maps highlight the census tracts where further intervention may be warranted. 
 
 
 ### Project Approach
