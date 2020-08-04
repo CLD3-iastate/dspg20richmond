@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Findings 1</title>
+      <title>Results Section One</title>
       <link>/findings/results-section-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Findings 2</title>
+      <title>Results Section Two</title>
       <link>/findings/results-section-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Findings 3</title>
+      <title>Results Section Three</title>
       <link>/findings/results-section-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -43,21 +43,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/findings/results-section-four/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
- Laws that protected class exemptions in housing-related transactions, Laws that protect tenants from retaliation by landlords Laws that reduce the number of exemptions landlords have from state landlord-tenant law  can affect evictions rates.</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>/findings/references/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/references/</guid>
-      <description>Eviction Lab Data Downloads. (2018). Retrieved July 30, 2020, from https://eviction-lab-data-downloads.s3.amazonaws.com/DATA_DICTIONARY.txt
-Missouri Census Data Center. (2018). Retrieved July 30, 2020, from http://mcdc.missouri.edu/applications/geocorr2018.html
-Eviction Lab Data: Matthew Desmond, Ashley Gromis, Lavar Edmonds, James Hendrickson, Katie Krywokulski, Lillian Leung, and Adam Porton. Eviction Lab National Database: Version 1.0. Princeton: Princeton University, 2018, www.evictionlab.org.
-Washington, Lark. “Rehouse Richmond: Plan to Address the Eviction Crisis.” (2020).
-Desmond, Matthew. 2012 “Eviction and the reproduction of urban poverty.</description>
+      <description>We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
+ Laws that protected class exemptions in housing-related transactions, Laws that protect tenants from retaliation by landlords Laws that reduce the number of exemptions landlords have from state landlord-tenant law  can affect evictions rates.
+Positive values of the eviction intensity indicator show there are still census tracts where eviction rates are not fully explained by sociodemographic and state level policy variables.</description>
     </item>
     
   </channel>

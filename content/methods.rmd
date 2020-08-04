@@ -14,15 +14,14 @@ h1, h2, h3 {
 
 ### Data
 
-
 Data was collected and joined on tract GEOID across the following sources:
 
-*	2013-2017 [American Community Survey](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2017/): highest educational attainment, unemployment
-*	Missouri Census Data Center’s 2018 [Geocorr database](http://mcdc.missouri.edu/applications/geocorr.html) to understand tracts in terms of their corresponding census places, namely cities.
-*	[Eviction Lab at Princeton University](https://evictionlab.org/): Census tract level data on eviction rates, poverty rate, median income, and race.
-*	[Policy Atlas](https://lawatlas.org/topics) – State level laws on eviction, fair housing, and landlord-tenant laws.
-*	The sample consist of census tracts in cities with a population between 100,000-300,000.
-*	The final dataset contained 2,600 census tracts in 78 cities across the US.
+-	2013-2017 [American Community Survey](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2017/): highest educational attainment, unemployment
+-	Missouri Census Data Center’s 2018 [Geocorr database](http://mcdc.missouri.edu/applications/geocorr.html) to understand tracts in terms of their corresponding census places, namely cities.
+-	[Eviction Lab at Princeton University](https://evictionlab.org/): Census tract level data on eviction rates, poverty rate, median income, and race.
+-	[Policy Atlas](https://lawatlas.org/topics) – State level laws on eviction, fair housing, and landlord-tenant laws.
+-	The sample consist of census tracts in cities with a population between 100,000-300,000.
+-	The final dataset contained 2,600 census tracts in 78 cities across the US.
 
 ### Methods
 

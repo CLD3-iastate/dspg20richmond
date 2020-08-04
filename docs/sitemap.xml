@@ -27,10 +27,6 @@
   </url>
   
   <url>
-    <loc>/findings/references/</loc>
-  </url>
-  
-  <url>
     <loc>/team/</loc>
   </url>
   
@@ -43,11 +39,35 @@
   </url>
   
   <url>
+    <loc>/tags/geospatial/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/policy/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/socio-demographic/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
+    <loc>/tags/temporal/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/wordcloud/</loc>
   </url>
   
 </urlset>

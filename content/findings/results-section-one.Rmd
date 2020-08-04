@@ -1,6 +1,8 @@
 ---
-title: "Findings 1"
-weight: 2
+title: "Results Section One"
+description: "Regression Model Correlates Of Eviction Rates"
+tags: ["policy", "socio-demographic"]
+weight: 1
 draft: false
 output: html_document
 ---
@@ -36,7 +38,9 @@ State policy factors:
 	
 States known as “landlord friendly” have laws that are less tolerant of tenants who fail to pay rent. Southern states which previously thrived primarily on agriculture, are commonly known for their laws that are aimed to protect landowners. As such these states (including Virginia), have laws that often rule on the side of landlord with issues such as eviction, rent control, and tenant rights. Since the law, generally speaking, puts exemptions in place to favor widespread interests, we found that states with many exemptions on Fair Housing Laws and furthermore Landlord-Tenant law, are positively associated with high eviction rates and provide a minor number of legal remedies available to both tenants and landlords.
 
-**
+<br>
+
+#### References
 Scanlon, Edward, and Kevin Devine. "Residential mobility and youth well-being: Research, policy, and practice issues." J. Soc. & Soc. Welfare 28 (2001): 119.
 
  
@@ -51,4 +55,4 @@ Kull, Melissa A., Rebekah Levine Coley, and Alicia Doyle Lynch. "The roles of in
 
 Ersing, Robin L., Richard Sutphen, and Diane Nicole Loeffler. "Exploring the impact and implications of residential mobility: From the neighborhood to the school." Advances in Social Work 10.1 (2009): 1-18.
 
-[Continue to Findings 2](https://boya66.github.io/Richmond_website/findings/results-section-two/)
+[Continue to Results Section Two](https://boya66.github.io/Richmond_website/findings/results-section-two/)

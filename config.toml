@@ -13,7 +13,7 @@ publishDir = "docs"
 
 [params]
     author = "UVA Biocomplexity Institute"
-    description = "2020 DSPG VT Richmond"
+    description = "2020 DSPG VT Richmond City"
     logo = "favicon/uva-dspg-logo.jpg"
     githubUsername = "boya66"
     accent = "#232D4B" # dark colors do best
@@ -69,5 +69,5 @@ publishDir = "docs"
     weight = 3
     
 [[menu.icon]]
-    url = "boya66@vt.edu"
+    url = "mailto:boya66@vt.edu"
     name = "far fa-envelope"
