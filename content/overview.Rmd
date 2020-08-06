@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Understanding Evictions in Richmond City: Policy, Community, and Individual Factors"
 weight: 1
 draft: false
 output: html_document
@@ -13,7 +13,7 @@ h1, h2, h3 {
 
 ##An Investigation of Eviction Rates in Richmond
 
-The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG team used publicly available data to characterize areas of high eviction need in Richmond. This project aims to help Virginia Cooperative Extension (VCE) carefully target their nutrition and financial literacy programs to the areas of highest need within the city of Richmond. The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
+The city of Richmond has one of the highest eviction rates in the United States. The VT DSPG team used publicly available data to characterize areas of high eviction need in Richmond. This project aims to help Virginia Cooperative Extension (VCE) carefully target theirfinancial literacy programs to the areas of highest need within the city of Richmond. The VT-DSPG program partnered with VCE to first identify the factors that predict eviction. Followed by this work, the resulting information was used to develop an eviction vulnerability index which maps socio-economic determinants of eviction at the census tract level.
 
 ### Project Goals
 

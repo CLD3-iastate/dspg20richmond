@@ -18,7 +18,7 @@ h1, h2, h3 {
 
 To provide further guidance for policymakers interested in understanding evictions in Richmond, we provide a collection of dashboards that can be used to visualize the socio-demographic variables that our statistical model identified as being associated with eviction rates. This collection provides some context for what we can observe about the city of Richmond and the variation across census tracts and time. We provide guidance on how to operate the dashboards below and obtain information suitable for program or policy-related work. 
 
-Most of our analyses concern historical data in the period 2010-2018 using a combination of the American Community Survey and other sources. In addition to these resources, which may help explain evictions that occur during non-recessionary periods, we felt it necessary to provide an additional resource to address the uncertainty created in the aftermath of COVID-19. For this purpose, and to invite questions around current policy, we provide a dashboard titled, “2020 Eviction Filings by Zip Code.” In this dashboard, stakeholders and policymakers may select a month from January-May of 2020, and by hovering over a zip code, assess that zip code’s number of eviction fillings. 
+Most of our analyses concern historical data in the period 2010-2018 using a combination of the American Community Survey and other sources. In addition to these resources, which may help explain evictions that occur during non-recessionary periods, we felt it necessary to provide an additional resource to address the uncertainty created in the aftermath of COVID-19. For this purpose, and to invite questions around current policy, we provide a dashboard titled, “2020 Eviction Filings by Zip Code.” In this dashboard, stakeholders and policymakers may select a month from January to May of 2020, and by hovering over a zip code, assess that zip code’s number of eviction fillings. 
 
 In addition to analysis by geography, the next three dashboards add a multi-year time component so that we may analyze changes in eviction rate and its associated factors over time. As an introduction to this format for gathering information, we make available in the second dashboard below titled, “Visualization of the Socio-Demographic Factors Over Time,” an interface for understanding the changing correlates of eviction rate in the 2010s. In this dashboard, stakeholders and policymakers may select socio-demographic factors, including:
 
@@ -34,11 +34,11 @@ In addition to analysis by geography, the next three dashboards add a multi-year
 * Percentage whose highest educational attainment was below a high school diploma 
 * Percentage whose highest educational attainment was a bachelor’s degree or higher
 
-In the visualization below, we have eviction filings between Jan-May 2020. This temporal maps give us an idea about how eviction filing changed due to the COVID-19 pandemic. We see that after March eviction filings dropped precipitously. 
+In the visualization below, we have eviction filings between Jan and May 2020. This temporal maps give us an idea about how eviction filing changed due to the COVID-19 pandemic. We see that after March eviction filings dropped precipitously. 
 
 By default, 2018 remains the default choice selected, as it is the most recent year available for American Community Survey 5-year summary statistics. Users may also select a year by dragging the circle across or click the play button beneath 2018 to see the chosen demographic variable on the census tract map and its changes by year. 
 
-After considering the socio-demographic factors of eviction, we provide in the remaining two dashboards a focus on eviction rate and median home values. In the third dashboard titled, “Richmond Eviction Rate,” we have an interface for understanding the changing eviction rates, which measure the tract level proportion of renter-occupied households that received an eviction judgment to vacate, on an annual basis from 2000-2016. 
+After considering the socio-demographic factors of eviction, we provide in the remaining two dashboards a focus on eviction rate and median home values. In the third dashboard titled, “Richmond Eviction Rate,” we have an interface for understanding the changing eviction rates, which measure the tract-level proportion of renter-occupied households that received an eviction judgment to vacate, on an annual basis from 2000-2016. 
 
 By selecting the three vertical bars icon in the upper left quadrant, users may select the default year 2016, drag the circle across, or click the play button to see changes on the census tract map by year. In the final dashboard titled, “Richmond Median Home values,” we have a dashboard for understanding the changing median home value from 2010-2018. 
 
@@ -46,7 +46,7 @@ We hope the information content of these dashboards, taken in context with our c
 
 ### Embedded Shiny Dashboards
 
-In the first two months of 2020, we saw an uptick in eviction fillings concentrated in south-western Richmond, notably city zip code 23225. On March 12, 2020, a judicial emergency was declared by governor's executive order, which mandated non-essential, non-emergency court proceedings be suspended. Subsequently, we observed the first slowdown in eviction fillings in March, and this city-wide slowdown was apparent throughout May, our most recent data. While fillings remained low throughout much of the city, fillings increased the fastest in zip code 23224, which previously had high activity in Jan-Feb.
+In the first two months of 2020, we saw an uptick in eviction fillings concentrated in south-western Richmond, notably city zip code 23225. On March 12, 2020, a judicial emergency was declared by governor's executive order, which mandated non-essential, non-emergency court proceedings be suspended. Subsequently, we observed the first slowdown in eviction fillings in March, and this city-wide slowdown was apparent throughout May, our most recent data. While fillings remained low throughout much of the city, filings increased the fastest in zip code 23224, which previously had high activity in Jan-Feb.
 
 ```{r, echo=FALSE, fig.height=15, fig.fullwidth=TRUE}
 knitr::include_app('https://afrina.shinyapps.io/Shiny_eviction_2020/', height="610px")
@@ -63,7 +63,7 @@ knitr::include_app('https://tabassum.shinyapps.io/Model_Variables/', height="750
   
 ```
 
-While eviction rates experienced small changes over time (2000-2016), we leave it to the user to explore the census tracts according to their needs. It is worth mentioning census tract 111, which houses part of Virginia Union University, had the city’s highest eviction rate of 42.17% in 2016. Although the eviction rate in tract 111 has been on the higher side periodically since 2000, between 2014 and 2015 it catapulted nearly 20 points, and remained at the top in 2016. The sudden increase in the eviction rate may be traceable to events within the tract and represent an opportunity to discover wide area, as opposed to single building, reasons for increases in eviction rate.
+While eviction rates experienced small changes over time (2000-2016), we leave it to the user to explore the census tracts according to their needs. It is worth mentioning census tract 111, which houses part of Virginia Union University, had the city’s highest eviction rate of 42.17% in 2016. Although the eviction rate in tract 111 has been on the higher side periodically since 2000, between 2014 and 2015 it catapulted nearly 20 points, and remained at the top in 2016. The sudden increase in the eviction rate may be traceable to events within the tract and represent an opportunity to discover wide-area, as opposed to single building, reasons for increases in eviction rate.
 
 ```{r, echo=FALSE, fig.fullwidth=TRUE}
 knitr::include_app('https://afrina.shinyapps.io/Shiny_Eviction_Rate/', height="615px")

@@ -5,9 +5,9 @@ draft: false
 output: html_document
 ---
 
-We determined that state level landlord and tenant friendly policies are significantly associated with tract level eviction rates. These finding suggested that state level policy levers such as:
+We determined that state level landlord and tenant friendly policies are significantly associated with tract-level eviction rates. These finding suggested that state level policy levers such as:
 
-* Laws that protected class exemptions in housing-related transactions,
+* Laws that reduce protected class exemptions in housing-related transactions,
 * Laws that protect tenants from retaliation by landlords
 * Laws that reduce the number of exemptions landlords have from state landlord-tenant law
 
