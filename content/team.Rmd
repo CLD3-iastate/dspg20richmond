@@ -23,8 +23,9 @@ In its seventh year, the program engages students from across the country to wor
 ### DSPG Team Members {style=text-align:center}
 
 <center>
-![Boya Zhang](/team_files/Boya.Zhang.VT.jpg){width=135px height=140px}![Dylan Glover](/team_files/Dylan.Glover.VT.jpg){width=115px height=140px}![Laura Pranteddu](/team_files/Laura.Pranteddu.VT.JPG){width=135px height=140px}
-![Afrina Tabassum](/team_files/Afrina.Tabassum.VT.jpg){width=135px height=140px}![Adam Wells](/team_files/Adam.Wells.VT.jpg){width=125px height=140px}
+
+![Boya Zhang](/dspg20richmond/team_files/Boya.Zhang.VT.jpg){width=135px height=140px}![Dylan Glover](/dspg20richmond/team_files/Dylan.Glover.VT.jpg){width=115px height=140px}![Laura Pranteddu](/dspg20richmond/team_files/Laura.Pranteddu.VT.JPG){width=135px height=140px}
+![Afrina Tabassum](/dspg20richmond/team_files/Afrina.Tabassum.VT.jpg){width=135px height=140px}![Adam Wells](/dspg20richmond/team_files/Adam.Wells.VT.jpg){width=125px height=140px}
 
 [Boya Zhang, Fellow (PhD student at Virginia Tech, Statistics)](https://github.com/boya66)
 
@@ -39,7 +40,7 @@ In its seventh year, the program engages students from across the country to wor
 ### VT Faculty Team Members {style=text-align:center}
 
 <center>
-![Susan Chen](/team_files/Susan.Chen.VT.jpg){width=150px height=160px}![Conaway Haskins](/team_files/Conaway.Haskins.VT.jpg){width=150px height=160px}![Matt Holt](/team_files/Matt.Holt.VT.jpg){width=150px height=160px}![Ford Ramsey](/team_files/Ford.Ramsey.VT.jpg){width=150px height=160px}
+![Susan Chen](/dspg20richmond/team_files/Susan.Chen.VT.jpg){width=150px height=160px}![Conaway Haskins](/dspg20richmond/team_files/Conaway.Haskins.VT.jpg){width=150px height=160px}![Matt Holt](/dspg20richmond/team_files/Matt.Holt.VT.jpg){width=150px height=160px}![Ford Ramsey](/dspg20richmond/team_files/Ford.Ramsey.VT.jpg){width=150px height=160px}
 
 [Susan Chen (Associate Professor at Virginia Tech, Agricultural & Applied Economics)](https://aaec.vt.edu/people/faculty/chen-susan.html)
 
@@ -51,7 +52,7 @@ In its seventh year, the program engages students from across the country to wor
 
 ### Project Sponsors/Stakeholders {style=text-align:center}
 <center>
-![VCE](/team_files/VCE.Logo.png){width=300px height=200px}
+![VCE](/dspg20richmond/team_files/VCE.Logo.png){width=300px height=200px}
 <center>
 
 [Twandra Lomax-Brown (Unit Coordinator Extension Agent, Family and Consumer Sciences)](https://www.linkedin.com/in/twandra-lomax-brown-ma-ed-5554859/)
