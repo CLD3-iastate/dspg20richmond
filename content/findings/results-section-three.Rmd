@@ -77,4 +77,4 @@ knitr::include_app('https://wellay01.shinyapps.io/ShinyRichmond/', height="615px
   
 ```
 
-[Continue to Conclusion](https://boya66.github.io/Richmond_website/findings/results-section-four/)
+<!-- [Continue to Conclusion](https://boya66.github.io/Richmond_website/findings/results-section-four/) -->

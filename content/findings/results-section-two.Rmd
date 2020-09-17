@@ -29,4 +29,4 @@ Eviction Intensity across Richmond City Census Tracts
 knitr::include_app('https://tabassum.shinyapps.io/residual_inference/')
 ```
 
-[Continue to Results Section Three](https://boya66.github.io/Richmond_website/findings/results-section-three/)
+<!-- [Continue to Results Section Three](https://boya66.github.io/Richmond_website/findings/results-section-three/) -->
