@@ -7,6 +7,7 @@ disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$"]
 publishDir = "docs"
+relativeurls = false
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
