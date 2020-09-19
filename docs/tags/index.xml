@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Virginia Tech</title>
-    <link>/dspg20richmond/tags/</link>
+    <link>/boya66/Richmond_website/tags/</link>
     <description>Recent content in Tags on Virginia Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/dspg20richmond/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/boya66/Richmond_website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>geospatial</title>
-      <link>/dspg20richmond/tags/geospatial/</link>
+      <link>/boya66/Richmond_website/tags/geospatial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/geospatial/</guid>
+      <guid>/boya66/Richmond_website/tags/geospatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>policy</title>
-      <link>/dspg20richmond/tags/policy/</link>
+      <link>/boya66/Richmond_website/tags/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/policy/</guid>
+      <guid>/boya66/Richmond_website/tags/policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shiny</title>
-      <link>/dspg20richmond/tags/shiny/</link>
+      <link>/boya66/Richmond_website/tags/shiny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/shiny/</guid>
+      <guid>/boya66/Richmond_website/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>socio-demographic</title>
-      <link>/dspg20richmond/tags/socio-demographic/</link>
+      <link>/boya66/Richmond_website/tags/socio-demographic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/socio-demographic/</guid>
+      <guid>/boya66/Richmond_website/tags/socio-demographic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temporal</title>
-      <link>/dspg20richmond/tags/temporal/</link>
+      <link>/boya66/Richmond_website/tags/temporal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/temporal/</guid>
+      <guid>/boya66/Richmond_website/tags/temporal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordcloud</title>
-      <link>/dspg20richmond/tags/wordcloud/</link>
+      <link>/boya66/Richmond_website/tags/wordcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dspg20richmond/tags/wordcloud/</guid>
+      <guid>/boya66/Richmond_website/tags/wordcloud/</guid>
       <description></description>
     </item>
     
